@@ -16,6 +16,3 @@ Vous prendrez en charge les extrémités (première page et dernière page) dans
 
 <p><H6>- CORRECTIONS SUR LE FICHIER :</H6></p>
 <p>Les corrections que j'ai apportés au fichier PHP m'ont été possible à l'aide de la base de données. En effet, le fichier PHP n'est fonctionnel que lorsqu'il est lié à une base de données PHPmyAdmin. J'ai alors vérifiée et fait en sorte, après plusieurs essais, que la pagination soit correctement affichée sur les premières et dernières pages, sans afficher de pagination sur les pages non existantes. Il a fallu pour cela faire en sorte que le formulaire soit compris entre la première et dernière page.</p>
-
-<p><H6>- INTEGRER LICENCE ET DROITS D'UTILISATIONS :</H6></p>
-<p>J'aurai aimer intégrer la licence</p>
